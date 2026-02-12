@@ -39,7 +39,11 @@ This project analyzes customer demographics, spending behavior, and income utili
 ---
 
 ## 🔗 Live Power BI Dashboard
-👉 **[[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzk4OTFiOWMtZDM0Yy00NmRiLTkzOTktNWViODFjZmQzYzhhIiwidCI6IjcwNGE1OTA5LTk5MGYtNDhkMi1hMTdmLTEyMzIyODUyNWUxYiJ9)**
+👉 **[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzk4OTFiOWMtZDM0Yy00NmRiLTkzOTktNWViODFjZmQzYzhhIiwidCI6IjcwNGE1OTA5LTk5MGYtNDhkMi1hMTdmLTEyMzIyODUyNWUxYiJ9)**
+## 🔗 Canva PPT
+👉 **[Click here to view the interactive dashboard](https://www.canva.com/design/DAHBETf2tKA/bVn3p_gb5iMzlhIZYk3Dvw/edit?utm_content=DAHBETf2tKA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+)**
+
 
 ---
 
